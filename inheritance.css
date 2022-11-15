@@ -1,0 +1,26 @@
+.ordered
+{
+color: blue;
+font-size: larger;
+}
+.unordered
+{
+color: red;
+font-size: medium;
+}
+#id1
+{
+color: aqua;
+}
+#id2
+{
+font-size:xx-small;
+}
+#id33
+{
+color: greenyellow
+}
+#id44
+{
+font-size:xx-large
+}
